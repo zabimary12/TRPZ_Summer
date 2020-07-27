@@ -1,0 +1,7 @@
+D:\обучение\С#\TRPZ_Summer\TRPZ_Summer_lessons1\One_dop_C(sharp)\bin\Debug\One_dop_C(sharp).exe.config
+D:\обучение\С#\TRPZ_Summer\TRPZ_Summer_lessons1\One_dop_C(sharp)\bin\Debug\One_dop_C(sharp).exe
+D:\обучение\С#\TRPZ_Summer\TRPZ_Summer_lessons1\One_dop_C(sharp)\bin\Debug\One_dop_C(sharp).pdb
+D:\обучение\С#\TRPZ_Summer\TRPZ_Summer_lessons1\One_dop_C(sharp)\obj\Debug\One_dop_C(sharp).csprojAssemblyReference.cache
+D:\обучение\С#\TRPZ_Summer\TRPZ_Summer_lessons1\One_dop_C(sharp)\obj\Debug\One_dop_C(sharp).csproj.CoreCompileInputs.cache
+D:\обучение\С#\TRPZ_Summer\TRPZ_Summer_lessons1\One_dop_C(sharp)\obj\Debug\One_dop_C(sharp).exe
+D:\обучение\С#\TRPZ_Summer\TRPZ_Summer_lessons1\One_dop_C(sharp)\obj\Debug\One_dop_C(sharp).pdb
